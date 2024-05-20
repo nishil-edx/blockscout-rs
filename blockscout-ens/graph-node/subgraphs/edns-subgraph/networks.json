@@ -1,0 +1,23 @@
+{
+    "edexa-testnet": {
+    "ENSRegistry": {
+      "address": "0xD84E889d98cc6436b9945dC8Cf26505D92Dd39BE",
+      "startBlock": 18518964
+    }, 
+    "Resolver": {
+      "startBlock": 18519101
+    },
+    "BaseRegistrar": {
+      "address": "0x702b7C57653250F60E47c9464a5280F28f06d834",
+      "startBlock": 18518967
+    }, 
+    "EdxRegistrarController": {
+      "address": "0x3FF5908aF09530bdf7E351b461e8888f3875Fb58",
+      "startBlock": 18519084
+    },
+    "NameWrapper": {
+      "address": "0x3AeED7f0Fc18857809DF114567f3369630404227",
+      "startBlock": 18519078
+    }
+  }
+}
