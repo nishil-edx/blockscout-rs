@@ -1,5 +1,8 @@
 # Graph cli generated
-
+src/types
+build/
+.DS_STORE
+data
 # Logs
 logs
 *.log
