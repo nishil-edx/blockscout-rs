@@ -64,6 +64,18 @@
             "empty_label_hash": "0xea1eb1136f380e6643b69866632ce3b493100790c9c84416f2769d996a1c38b1"
           }
         }
+      },
+      "1995": {
+        "blockscout": {
+          "url": "https://explorer.testnet.edexa.network"
+        },
+        "subgraphs": {
+          "edns-subgraph": {
+            "use_cache": true,
+            "address_resolve_technique": "reverse_registry",
+            "native_token_contract": "0x702b7C57653250F60E47c9464a5280F28f06d834"
+          }
+        }
       }
     }
   }
