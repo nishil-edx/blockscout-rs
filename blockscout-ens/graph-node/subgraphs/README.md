@@ -10,7 +10,7 @@
 | bns-subgraph | Base | .base |      |
 | mode-subgraph | Mode | .mode | SpaceID contracts |
 | lightlink-subgraph | Lightlink | .ll | SpaceID contracts |
-| edns-subgraph | Edexa | .edx|      |
+| edns-subgraph | Edexa | .edx|      | 
 
 ## Add your own subgraph
 
