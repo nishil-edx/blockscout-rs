@@ -9,7 +9,7 @@
     },
     "BaseRegistrar": {
       "address": "0xBF012Bd027095ac412EDAF02B148BFb0363c35F2",
-      "startBlock": 18518967
+      "startBlock": 746757
     }, 
     "EdxRegistrarController": {
       "address": "0x97Cd4BfBF2d0a6Fd3163cD974ecB6077e4425d0d",
